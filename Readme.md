@@ -1,20 +1,20 @@
-# Size of an image
+## Size of an image
 
 ```print(image.shape)```
 
-# Black and White
+## Black and White
 ``` cv2.imread('image', 0)```
 
-# Color image
+## Color image
 ''' cv2.imread('image',3) '''
 
-# Display image till user press any key
+## Display image till user press any key
 ``` cv2.imshow("Saijal Shakya", image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ```
 
-# Display image for 2000ms
+## Display image for 2000ms
 ```cv2.waitKey(2000)```
 
 

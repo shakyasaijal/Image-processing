@@ -18,5 +18,7 @@
 ## Display image for 2000ms
 ```cv2.waitKey(2000)```
 
-
-
+## Resize Image
+```
+    cv2.resize (image, (200,200))
+```

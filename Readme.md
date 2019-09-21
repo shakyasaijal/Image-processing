@@ -1,3 +1,6 @@
+- Python OpenCV stores image in numpy array :bowtie:
+
+
 ## Size of an image
 
 ```print(image.shape)```
